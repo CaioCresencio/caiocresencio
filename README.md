@@ -1,7 +1,7 @@
 ### Hello, eu sou o Caio ;)
 
-- 🔭 Atualmente trabalho criando Addons para a ferramenta Znuny
-- 🌱 Estudando Node/TypeScript
+- 🔭 Atualmente trabalho desenvolvendo soluções web.
+- 🌱 Se aprofundando em Node/React/TypeScript
 
 <div align="center">
   <a href="https://github.com/caiocresencio">
